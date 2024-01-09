@@ -1,0 +1,28 @@
+#d0{
+  display: flex;
+  justify-content: space-around;
+}
+img{
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+#nav{
+  margin: auto;
+  text-align: center;
+  background-color: aquamarine;
+}
+select{
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+@media screen and (max-width: 600px) {
+  #d0{
+    display: block;
+  }
+  *{
+    /* background-color: blue; */
+    text-align: center;
+  }
+}
