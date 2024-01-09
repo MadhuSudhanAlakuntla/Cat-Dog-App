@@ -1,2 +1,5 @@
 # Cat-Dog-App
-<img src="https://images.dog.ceo/breeds/weimaraner/n02092339_669.jpg"/>
+<img src="./images/img1.png"/>
+<img src="./images/img2.png"/>
+<img src="./images/img3.png"/>
+<img src="./images/img4.png"/>
