@@ -1,5 +1,5 @@
 # Deployed URL
-<a href="https://cat-dog-app.vercel.app/">
+# https://cat-dog-app.vercel.app/
 <h2>Cat-Dog-App</h2>
 
 <img src="./images/img1.png"/>
